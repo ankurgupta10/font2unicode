@@ -1,7 +1,8 @@
 # font2unicode
 Different Hindi fonts to unicode conversion
 
-For Chanakya font
+Added Chanakya font conversion.
+
 Add more fonts on request basis
 
 # How it works
